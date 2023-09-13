@@ -26,7 +26,7 @@
       </a>
     </td>
     <td style="vertical-align: middle; padding-left: 10px;">
-      Web Scrapping
+      Web Scraping
     </td>
   </tr>
 </table>
@@ -57,6 +57,15 @@
 ## Scraped data
 
 ![a](https://github.com/khetanayush/Nifty50-Stock-Prediction-Model/assets/131992182/863cdbbb-7866-4b63-93aa-628b79c2d1f2)
+
+### Created LSTM Model on Python then deployed it on streamlit
+
+#### Webpage Link
+
+https://khetanayush-nifty50-stock-prediction-model-app-5970vt.streamlit.app/
+
+
+
 
 
 
