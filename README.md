@@ -45,9 +45,14 @@
 
 ## User's Manual
 
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
+| Files/Folders |  Description                      |
+| :-------- | :-------------------------------- |
+| Nifty 50 Web Scraping.ipynb      | Contains the web scraping code of the nifty 50 stocks for the last 4 years  |
+| stock_nifty50.csv      | Contains the scraped csv file of the nifty 50 stocks for the last 4 years  |
+| Nifty50 Prediction Model.ipynb      | Contains the LSTM Model for stock price prediction  |
+| Nifty50 Dashboard.xlsx      | Contains the Excel worksheet and dashboard of the insights  |
+| Nifty 50 Presentation.pptx      | The file provides the powerpoint presentation which contains all the major insights and conclusions  |
+| Nifty50 Webpage Link.txt      | Contains the webpage link of stock price prediction  |
 
 ## Scraped data
 
