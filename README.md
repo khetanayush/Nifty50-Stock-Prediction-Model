@@ -1,6 +1,6 @@
 # Nifty50-Stock-Prediction-Model
 
-![a031250d0b127b4ad6788e52c2bbcff5](https://github.com/khetanayush/Nifty50-Stock-Prediction-Model/assets/131992182/15e8f4f6-280a-4af4-b359-06a1e239b959)
+![a031250d0b127b4ad6788e52c2bbcff5](https://github.com/khetanayush/Nifty50-Stock-Prediction-Model/assets/131992182/16f5d21d-9a59-4941-b910-c0e695fd5ee0)
 
 ## Problem statement
 
