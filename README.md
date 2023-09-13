@@ -1,5 +1,7 @@
 # Nifty50-Stock-Prediction-Model
 
+![a031250d0b127b4ad6788e52c2bbcff5](https://github.com/khetanayush/Nifty50-Stock-Prediction-Model/assets/131992182/15e8f4f6-280a-4af4-b359-06a1e239b959)
+
 ## Problem statement
 
 - Firstly, Scrape data of Stock Nifty50 for last 4 years and generate different insights from that data
@@ -13,6 +15,33 @@
 - Excel : Generate different insights in excel and create a dashboard
 - ML : Create a LSTM model which will predict future profit and loss
 - Webpage : Create a webpage and deploy it on Streamlit app
+  
+
+ ## Tech Stack
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: middle;">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/>
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding-left: 10px;">
+      Web Scrapping
+    </td>
+  </tr>
+</table>
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: middle;">
+      <a href="https://support.microsoft.com/en-us/excel" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="80" height="80"/>
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding-left: 10px;">
+      Pivot Table, Dashboarding
+    </td>
+  </tr>
+</table>
 
 
 
