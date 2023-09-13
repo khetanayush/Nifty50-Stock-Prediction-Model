@@ -43,5 +43,20 @@
   </tr>
 </table>
 
+## User's Manual
+
+| Parameter | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `id`      | `string` | **Required**. Id of item to fetch |
+
+## Scraped data
+
+![a](https://github.com/khetanayush/Nifty50-Stock-Prediction-Model/assets/131992182/863cdbbb-7866-4b63-93aa-628b79c2d1f2)
+
+
+
+
+
+
 
 
